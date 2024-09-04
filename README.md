@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m currently learning python and working on passing my GCA! You can reach me: elton.guardado@gmail.com
 
 <!--
 **EltonGuardado/EltonGuardado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
